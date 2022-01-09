@@ -27,9 +27,11 @@ virtualenv entornoProyecto
 Activar el entorno virtual
 source entornoProyecto/bin/activate
 
+4 Paso
+
 Instalar las librerias utilizadas
 pip install -r requirements.txt
 
-4 Paso
+5 Paso
 
 Ejecutar el archivo main.py
